@@ -1,0 +1,10 @@
+Localization = 
+{
+	exclusive			= true,
+	victory_condition	= true,
+	always_on			= false,
+	title				= "[GameMode] Kill-Team",
+	win_message			= "Вы уничтожили все вражеские отряды — ваша команда одержала победу!",
+	lose_message		= "Вашу команду уничтожили силы противника! Вы потерпели позорное поражение...",
+	description			= "[EXCLUSIVE VC] Режим игры с одним отрядом — выберите карту «Skirmish», затем выберите свой отряд и охотьтесь на отряды врагов! ДЕЙСТВУЕТ ТОЛЬКО НА КАРТАХ РЕЖИМА «SKIRMISH»."
+}
