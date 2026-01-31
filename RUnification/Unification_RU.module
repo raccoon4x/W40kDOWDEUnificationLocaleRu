@@ -1,0 +1,21 @@
+;; ////////////////////////////////////////////////////////////////
+;; File    : Unification_RU.module
+;; Desc    : Russian localization addon for Unification Mod
+;; Repo    : https://github.com/raccoon4x/W40kDOWDEUnificationLocaleRu
+;; ////////////////////////////////////////////////////////////////
+[global]
+UIName = RUnification Mod
+Description = 
+Playable = 1
+DllName = DXP3Mod
+ModFolder = Unification_RU
+ModVersion = 1.0
+
+DataFolder.1 = Data
+
+RequiredMod.1 = DOWDE
+RequiredMod.2 = DXP3
+RequiredMod.3 = DXP2
+RequiredMod.4 = WXP
+RequiredMod.5 = W40k
+RequiredMod.6 = Unification
