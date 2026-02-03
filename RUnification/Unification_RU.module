@@ -13,9 +13,10 @@ ModVersion = 1.0
 
 DataFolder.1 = Data
 
-RequiredMod.1 = DOWDE
-RequiredMod.2 = DXP3
-RequiredMod.3 = DXP2
-RequiredMod.4 = WXP
-RequiredMod.5 = W40k
-RequiredMod.6 = Unification
+RequiredMod.1 = Unification
+RequiredMod.2 = DOWDE
+RequiredMod.3 = DXP3
+RequiredMod.4 = DXP2
+RequiredMod.5 = WXP
+RequiredMod.6 = W40k
+
